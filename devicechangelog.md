@@ -1,9 +1,10 @@
-  -updated to latest source
-  
-  -Updated fp to july
-
-  -Added battery stats and battery health overlays
-
-  -Added fps info overlay
+- Merged to latest 4.5 source
+- Added Mi sound Enhancer in sound settings
+- Added Violet parts in system settings
+- Added fps info, clear speaker, brightness in violet parts
+- Enabled KCAL in violet parts
+- Updated To August Redfin Fp
+- Upstream kernel
+- Misc changes and smoothness enhancement
 
  
