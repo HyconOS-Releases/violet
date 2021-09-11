@@ -1,9 +1,8 @@
-- Merged to latest 4.5 source
-- Added Mi sound Enhancer in sound settings
-- Added Violet parts in system settings
-- Added fps info, clear speaker, brightness in violet parts
-- Enabled KCAL in violet parts
-- Updated To August Redfin Fp
+- Merged to latest 4.5.1 source
+- Added ANX camera as default
+- Fixed fingerprint shutter in ANX camera
+- Updated fingerprint to September Redfin 
+- Added Phantom+ kernel
 - Upstream kernel
 - Misc changes and smoothness enhancement
 
